@@ -13,3 +13,4 @@ After the page is refreshed, the saved events persist.
 (./assets/images/workdayschedulerscreenshottop.png)
 
 # DEPLOYED URL
+https://joydotcom.github.io/workday-scheduler/ 
