@@ -16,6 +16,7 @@ for (var i = 0; i < hrs.length; i++) {
   }
 }
 
+
 $(".saveBtn").on("click", function () {
   var hr = $(this).data("hr");
   var description = $("#" + hr).val();
